@@ -1,0 +1,40 @@
+header {
+
+	height: 90px;
+	border-bottom: 3px solid black;
+
+}
+
+header ul li{
+	float: right;
+	padding: 10px;
+	padding-top:70px; 
+}
+header h1 {
+	background-color: #4AAAA5;
+	color: white;
+	font-size:40px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	width: 200px;
+	margin-left: 100px;
+	padding: 5px;
+	float:left;
+}
+
+.about{
+	margin-left:100px;
+	padding: 10px;
+	border: 1px solid grey;
+	width: 400px;
+	height: 300px;
+	float: left;
+}
+
+.about h1{
+	font-size: 40px;
+}
+
+#contact-info {
+	border: 1px solid grey;
+	float: right;
+}
