@@ -48,6 +48,13 @@ header h1 {
 }
 
 
+.about form{
+	width: 100%;
+	padding:10px;
+
+	
+}
+
 .about img{
 	padding: 20px;
 	float: left;
